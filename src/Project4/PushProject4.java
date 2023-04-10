@@ -9,5 +9,8 @@ public class PushProject4 {
 	public void addStush() {
 		System.out.println("Addin new Stush....");
 	}
-
+ 
+	public void addMore() {
+		System.out.println("Adding More Push ...");
+	}
 }
